@@ -1,0 +1,25 @@
+.container{
+    width: 1200px;
+    padding: 0 15px; 
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .lineDivider{ 
+    padding-top: 50px;
+  }
+   
+  .buttonBox button {
+    background-color: gray;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px 20px;
+  
+  }
+  
+  .buttonBox button:hover{
+    background: black;
+    color: white;
+    
+  }

@@ -1,0 +1,36 @@
+.card-container{ 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+   
+  }
+  .container{ 
+    width: 1200px; margin: 0 auto;
+  }
+  
+  .linkBox{ 
+    display: inline-block;
+    padding: 20px 10px;
+    width: 200px;
+    
+    
+  }
+  
+  
+  
+  
+  a{ 
+    text-decoration: none;
+    color: #000;
+    background: #8cface;
+    padding: 20px;
+    border-radius: 25px 0 25px 0;
+    transition: .5s ease-in-out;
+
+  }
+  
+  a:hover{ 
+    color: #8cface;
+    background-color: black ;
+  }
